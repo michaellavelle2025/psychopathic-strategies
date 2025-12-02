@@ -30,6 +30,6 @@ Strategies used by psychopaths to further their aims of
 
 ## 9: Falsifies the narative
 
-...
+## 10: Manipulates, coerces and controls
 
 * [Psychopathic Tactics Playlist](https://youtube.com/playlist?list=PLe6SA5Qd_oRNEvvwx5iY7Mw8kVXCkY6G4)
