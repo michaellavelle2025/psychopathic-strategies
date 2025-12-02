@@ -28,7 +28,7 @@ Strategies used by psychopaths to further their aims of
 
 ## 8: Destroys, annihilates or targets, disguising the behaviour as something positive 
 
-## 9: Falsifying the narative
+## 9: Falsifies the narative
 
 ...
 
