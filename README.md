@@ -18,7 +18,7 @@ Strategies used by psychopaths to further their aims of
 
 ## 3: Impersonates and usurps their targets
 
-## 4: Appears to be their target's friend
+## 4: Appears to be their target's friend, while undermining them at the same time
 
 ## 5: Isolates their targets
 
