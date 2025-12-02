@@ -22,7 +22,7 @@ Strategies used by psychopaths to further their aims of
 
 ## 5: Isolates their targets
 
-## 6: Divides society or communitities, aiming to conquer and destroy
+## 6: Divides society or communities, aiming to conquer and destroy
 
 ## 7: Publicises effective techniques of achieving destruction or targeting, disguised as ways to repair what is being destroyed or to protect those being targeted
 
