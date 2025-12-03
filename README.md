@@ -34,6 +34,10 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 * (3) Weaponises the justice system
 
+* (16) Attacks process and the wualifications, experience and integrity of professionals who challenge them
+
+* (17) Ingratiates themself to people in power
+
 ## 5: Silences their targets
 
 ## 6: Impersonates and usurps their targets
