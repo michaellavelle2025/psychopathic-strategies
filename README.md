@@ -20,6 +20,8 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 * (1) Intimidates with an intent to create fear
 
+* (10) Dismisses, degrades, disempowers and discredits
+
 ## 3: Watches their targets
 
 * (7) Capitalises on data, monitors, stalks
@@ -53,6 +55,8 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 * (4) Accuses the victim of their own nefarious deeds ("reverse attribution"), blames others
   
 * (6) Pretends to be the victim
+
+* (9) Focusses on evidence reduction and avoidance of transparency
 
 ## 13: Manipulates, coerces and controls
 
