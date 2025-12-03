@@ -18,6 +18,8 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 ## 2: Attacks their targets
 
+* (1) Intimidates with an intent to create fear
+
 ## 3: Watches their targets
 
 ## 4: Blocks their targets
