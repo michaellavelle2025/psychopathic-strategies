@@ -44,6 +44,8 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 ## 12: Falsifies the narative
 
+* (4) Accuses the victim of their own nefarious deeds ("Reverse Attribution"), blames others
+
 ## 13: Manipulates, coerces and controls
 
 ## 14: Intentionally creates chaos and confusion
