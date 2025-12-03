@@ -6,6 +6,8 @@ Strategies used by psychopaths to further their aims of
 * Annihilation
 * Targeting
 
+are listed below, along with numbered tactics from the "Tactics or Weaponary" section of [Dr. Karen Mitchell's PhD thesis](https://static1.squarespace.com/static/64910384d2da1763d7156043/t/65bc5a78ab4aef10b9901a25/1706842827397/Psychopaths+Narcissists+Machiavellians+Toxic+Leaders+Coercive+Controllers++Subsets+of+One+Overarching+Dark+Personality+Type++MITCHELL+PHD+THESIS.pdf) - pages 519-526, of 543
+
 ## 1: Destroys or annihilates
 
 * Destroys individuals or institutions ( their 'targets')
