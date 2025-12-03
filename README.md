@@ -99,15 +99,15 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 There are several strategies listed above which do not have corresponding tactics explicity specified within the 25 tactics from Dr Mitchell's thesis - although some are referenced as part of the wider thesis text.
 
-* Relating to the target:
+## Relating to the target:
 
-## Silences the target
+### Silences the target
 
-## Usurps the target
+### Usurps the target
 
-* and relating to more generic psychopathic aims:
+## Relating to more generic psychopathic aims:
 
-## Destroys, annihilates or targets - disguising the behaviournas something positive
+### Destroys, annihilates or targets - disguising the behaviournas something positive
 
-## Publicises effective techniques of achieving destruction or targeting, disguised as ways to repair what is being destroyed or to protect those being targeted
+### Publicises effective techniques of achieving destruction or targeting, disguised as ways to repair what is being destroyed or to protect those being targeted
 
