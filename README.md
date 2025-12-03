@@ -22,6 +22,8 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 * (10) Dismisses, degrades, disempowers and discredits
 
+* (14) Publicly and privately provokes
+  
 ## 3: Watches their targets
 
 * (7) Capitalises on data, monitors, stalks
@@ -38,7 +40,9 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 ## 7: Appears to be their target's friend, while undermining them at the same time
 
-(5) Creates a contrived deep sense of connection
+* (5) Creates a contrived deep sense of connection
+
+* (15) Moves in and out of supportive and non-supportive approaches
 
 ## 8: Isolates their targets
 
