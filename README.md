@@ -101,13 +101,13 @@ There are several strategies listed above which do not have corresponding tactic
 
 ## Relating to the target:
 
-### Silences the target
+### * Silences the target
 
-### Usurps the target
+### * Usurps the target
 
 ## Relating to more generic psychopathic aims:
 
-### Destroys, annihilates or targets - disguising the behaviour as something positive
+### * Destroys, annihilates or targets - disguising the behaviour as something positive
 
-### Publicises effective techniques of achieving destruction or targeting, disguised as ways to repair what is being destroyed or to protect those being targeted
+### * Publicises effective techniques of achieving destruction or targeting, disguised as ways to repair what is being destroyed or to protect those being targeted
 
