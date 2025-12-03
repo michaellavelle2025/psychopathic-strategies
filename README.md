@@ -32,6 +32,8 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 ## 7: Appears to be their target's friend, while undermining them at the same time
 
+(5) Creates a contrived deep sense of connection
+
 ## 8: Isolates their targets
 
 * (2) Isolates
@@ -44,7 +46,7 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 ## 12: Falsifies the narative
 
-* (4) Accuses the victim of their own nefarious deeds ("Reverse Attribution"), blames others
+* (4) Accuses the victim of their own nefarious deeds ("reverse attribution"), blames others
 
 ## 13: Manipulates, coerces and controls
 
