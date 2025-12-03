@@ -24,6 +24,8 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 ## 4: Blocks their targets
 
+* (3) Weaponises the justice system
+
 ## 5: Silences their targets
 
 ## 6: Impersonates and usurps their targets
@@ -31,6 +33,8 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 ## 7: Appears to be their target's friend, while undermining them at the same time
 
 ## 8: Isolates their targets
+
+* (2) Isolates
 
 ## 9: Divides society or communities, aiming to conquer and destroy
 
