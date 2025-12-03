@@ -22,7 +22,7 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 ## 3: Watches their targets
 
-(7) Capitalises on data, monitors, stalks
+* (7) Capitalises on data, monitors, stalks
 
 ## 4: Blocks their targets
 
