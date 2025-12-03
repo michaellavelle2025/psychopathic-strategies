@@ -62,6 +62,12 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 ## 14: Intentionally creates chaos and confusion
 
+* (11) Engages in a complex set of behaviours which are difficult to 'see through' and understand collectively
+
+* (12) Uses convoluted dialogue
+
+* (13) Confuses and creates chaos
+
 ## 15: Justifies their psychopathic behaviour
 
 * [Psychopathic Tactics Playlist](https://youtube.com/playlist?list=PLe6SA5Qd_oRNEvvwx5iY7Mw8kVXCkY6G4)
