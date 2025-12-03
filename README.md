@@ -50,6 +50,8 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 ## 6: Impersonates and usurps their targets
 
+* (25) Mirrors and copies
+  
 ## 7: Appears to be their target's friend, while undermining them at the same time
 
 * (5) Creates a contrived deep sense of connection
@@ -61,6 +63,8 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 * (2) Isolates
 
 ## 9: Divides society or communities, aiming to conquer and destroy
+
+* (24) Creates and capitalises on divisiveness and conflict, divides, and conquers
 
 ## 10: Publicises effective techniques of achieving destruction or targeting, disguised as ways to repair what is being destroyed or to protect those being targeted
 
@@ -76,6 +80,7 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 ## 13: Manipulates, coerces and controls
 
+* (23) Forces, coerces and bullies
 ## 14: Intentionally creates chaos and confusion
 
 * (11) Engages in a complex set of behaviours which are difficult to 'see through' and understand collectively
