@@ -22,7 +22,11 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 ## 3: Watches their targets
 
+(7) Capitalises on data, monitors, stalks
+
 ## 4: Blocks their targets
+
+* (8) Blocks, evades and deflects
 
 * (3) Weaponises the justice system
 
@@ -47,6 +51,8 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 ## 12: Falsifies the narative
 
 * (4) Accuses the victim of their own nefarious deeds ("reverse attribution"), blames others
+  
+* (6) Pretends to be the victim
 
 ## 13: Manipulates, coerces and controls
 
