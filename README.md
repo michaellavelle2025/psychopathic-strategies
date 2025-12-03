@@ -38,6 +38,14 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 * (17) Ingratiates themself to people in power
 
+* (18) Dismisses, degrades and minimises
+
+* (20) Blackmails and bribes
+
+* (21) Delays and postpones
+
+* (22) Obligates
+
 ## 5: Silences their targets
 
 ## 6: Impersonates and usurps their targets
@@ -77,5 +85,7 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 * (13) Confuses and creates chaos
 
 ## 15: Justifies their psychopathic behaviour
+
+* (19) Justifies and excuses
 
 * [Psychopathic Tactics Playlist](https://youtube.com/playlist?list=PLe6SA5Qd_oRNEvvwx5iY7Mw8kVXCkY6G4)
