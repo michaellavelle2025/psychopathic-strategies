@@ -28,7 +28,7 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 * (7) Capitalises on data, monitors, stalks
 
-## 4: Blocks their targets
+## 4: Blocks their targets' attempts to get help
 
 * (8) Blocks, evades and deflects
 
