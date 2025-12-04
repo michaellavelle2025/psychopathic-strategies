@@ -68,7 +68,11 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 ## 10: Publicises effective techniques of achieving destruction or targeting, disguised as ways to repair what is being destroyed or to protect those being targeted
 
-## 11: Destroys, annihilates or targets, disguising the behaviour as something positive 
+## 11: Destroys, annihilates or targets, disguising the behaviour as something positive
+
+* [Free your mind - En Vogue](https://www.youtube.com/watch?v=i7iQbBbMAFE)
+
+* [Picture Me - Dave](https://www.youtube.com/watch?v=Ks2PNZx0rRE)
 
 ## 12: Falsifies the narative
 
