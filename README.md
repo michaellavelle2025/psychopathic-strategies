@@ -74,6 +74,8 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 * [Picture Me - Dave](https://www.youtube.com/watch?v=Ks2PNZx0rRE)
 
+* [Thiago Silva - Dave (feat. Alex) at Glastonbury](https://www.youtube.com/watch?v=e1vlLJCr9Lo)
+
 ## 12: Falsifies the narative
 
 * (4) Accuses the victim of their own nefarious deeds ("reverse attribution"), blames others
