@@ -68,6 +68,8 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 ## 10: Publicises effective techniques of achieving destruction or targeting, disguised as ways to repair what is being destroyed or to protect those being targeted
 
+* [Language](https://youtube.com/playlist?list=PLe6SA5Qd_oRMrHR9S0HR5p1i0KcfVGC8J)
+
 ## 11: Destroys, annihilates or targets, disguising the behaviour as something positive
 
 * [Free your mind - En Vogue](https://www.youtube.com/watch?v=i7iQbBbMAFE)
@@ -75,6 +77,8 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 * [Picture Me - Dave](https://www.youtube.com/watch?v=Ks2PNZx0rRE)
 
 * [Thiago Silva - Dave (feat. Alex) at Glastonbury](https://www.youtube.com/watch?v=e1vlLJCr9Lo)
+
+* [Language](https://youtube.com/playlist?list=PLe6SA5Qd_oRMrHR9S0HR5p1i0KcfVGC8J)
 
 ## 12: Falsifies the narative
 
