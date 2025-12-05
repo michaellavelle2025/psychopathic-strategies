@@ -125,3 +125,8 @@ There are several strategies listed above which do not have corresponding tactic
 
 ### * Publicises effective techniques of achieving destruction or targeting, disguised as ways to repair what is being destroyed or to protect those being targeted
 
+As a first step in identifying the targets of pyschopaths so that they can be helped, we could seek to identify individuals or groups that have been:
+
+* 1) Silenced
+* 2) Impersonated
+* 3) Usurped
