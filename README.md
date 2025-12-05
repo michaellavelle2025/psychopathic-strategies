@@ -133,4 +133,4 @@ As a first step in identifying the targets of psychopaths so that they can be he
 * 2) Impersonated
 * 3) Usurped
 
-( See [Distinctive Blinking](https://youtube.com/watch?v=G7cme41o6tw&list=PLe6SA5Qd_oRNRQWh2rzoBfpA7NxU7eCv0) playlist of videos) )
+( See [Distinctive Blinking](https://youtube.com/watch?v=G7cme41o6tw&list=PLe6SA5Qd_oRNRQWh2rzoBfpA7NxU7eCv0) playlist of videos )
