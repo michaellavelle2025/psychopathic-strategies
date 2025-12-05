@@ -127,7 +127,7 @@ There are several strategies listed above which do not have corresponding tactic
 
 # Helping the targets of psychopaths
 
-As a first step in identifying the targets of pyschopaths so that they can be helped, we could seek to identify individuals or groups that have been:
+As a first step in identifying the targets of psychopaths so that they can be helped, we could seek to identify individuals or groups that have been:
 
 * 1) Silenced
 * 2) Impersonated
