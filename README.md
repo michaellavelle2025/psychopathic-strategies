@@ -48,9 +48,13 @@ are listed below, along with numbered tactics from the "Tactics or Weaponary" se
 
 ## 5: Silences their targets
 
+* [The Capture - Season 2 - BBC](https://youtube.com/watch?v=Z8i4-Z0OHRw)
+
 ## 6: Impersonates and usurps their targets
 
 * (25) Mirrors and copies
+
+* [The Capture - Season 2 - BBC](https://youtube.com/watch?v=Z8i4-Z0OHRw)
   
 ## 7: Appears to be their target's friend, while undermining them at the same time
 
